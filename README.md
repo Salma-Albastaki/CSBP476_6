@@ -6,6 +6,7 @@ This is the model of our robot:
 
 ## Watch the YouTube Video of Our Robot!
 Check out a short video demonstration of our robot in action:
+
 [![Watch the video](https://img.youtube.com/vi/vDX8ryJ0T_I/0.jpg)](https://youtu.be/vDX8ryJ0T_I)
 
 
